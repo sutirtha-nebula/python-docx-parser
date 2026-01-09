@@ -1,0 +1,287 @@
+[
+  {
+    "text": "Sample Report Template",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "Sample Report Template",
+        "font": "Calibri",
+        "size": 304800,
+        "bold": true,
+        "italic": null
+      }
+    ],
+    "layout": {
+      "page": 0,
+      "bbox": [
+        138.10000610351562,
+        145.7000274658203,
+        473.3320617675781,
+        169.7000274658203
+      ]
+    }
+  },
+  {
+    "text": "Date: December 26, 2025",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "Date: December 2",
+        "font": "Calibri",
+        "size": 139700,
+        "bold": null,
+        "italic": null
+      },
+      {
+        "text": "6",
+        "font": "Calibri",
+        "size": 139700,
+        "bold": null,
+        "italic": null
+      },
+      {
+        "text": ", 2025",
+        "font": "Calibri",
+        "size": 139700,
+        "bold": null,
+        "italic": null
+      }
+    ],
+    "layout": {
+      "page": 0,
+      "bbox": [
+        234.39999389648438,
+        334.3000183105469,
+        377.24603271484375,
+        345.3000183105469
+      ]
+    }
+  },
+  {
+    "text": "Confidential and Proprietary\nFor discussion purposes only",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "Confidential and Proprietary",
+        "font": "Calibri",
+        "size": null,
+        "bold": null,
+        "italic": true
+      },
+      {
+        "text": "\nFor discussion purposes only",
+        "font": "Calibri",
+        "size": null,
+        "bold": null,
+        "italic": true
+      }
+    ],
+    "layout": {
+      "page": 0,
+      "bbox": [
+        233.3000030517578,
+        382.20001220703125,
+        377.4198303222656,
+        405.6000061035156
+      ]
+    }
+  },
+  {
+    "text": "Table of Contents",
+    "style": "Heading 1",
+    "runs": [
+      {
+        "text": "Table of Contents",
+        "font": null,
+        "size": null,
+        "bold": null,
+        "italic": null
+      }
+    ],
+    "layout": {
+      "page": 1,
+      "bbox": [
+        71.80000305175781,
+        150.79998779296875,
+        539.5599975585938,
+        160.79998779296875
+      ]
+    }
+  },
+  {
+    "text": "Executive Summary",
+    "style": "Heading 1",
+    "runs": [
+      {
+        "text": "Executive Summary",
+        "font": null,
+        "size": null,
+        "bold": null,
+        "italic": null
+      }
+    ],
+    "layout": {
+      "page": 1,
+      "bbox": [
+        71.80000305175781,
+        169.20001220703125,
+        539.5599975585938,
+        179.20001220703125
+      ]
+    }
+  },
+  {
+    "text": "HEADING STYLE GOES HERE",
+    "style": "Heading 1",
+    "runs": [
+      {
+        "text": "HEADING STYLE GOES HERE",
+        "font": null,
+        "size": null,
+        "bold": null,
+        "italic": null
+      }
+    ],
+    "layout": {
+      "page": 1,
+      "bbox": [
+        71.80000305175781,
+        187.5,
+        539.5599975585938,
+        197.5
+      ]
+    }
+  },
+  {
+    "text": "Objectives",
+    "style": "Heading 2",
+    "runs": [
+      {
+        "text": "Objectives",
+        "font": null,
+        "size": null,
+        "bold": null,
+        "italic": null
+      }
+    ],
+    "layout": {
+      "page": 1,
+      "bbox": [
+        81.80000305175781,
+        205.9000244140625,
+        539.5599975585938,
+        215.9000244140625
+      ]
+    }
+  },
+  {
+    "text": "You can put a few bullet points here",
+    "style": "List Bullet",
+    "runs": [
+      {
+        "text": "You can put a few bullet points here",
+        "font": null,
+        "size": 127000,
+        "bold": null,
+        "italic": null
+      }
+    ],
+    "layout": {
+      "page": 2,
+      "bbox": [
+        71.80000305175781,
+        421.1000061035156,
+        270.6700134277344,
+        484.5
+      ]
+    }
+  },
+  {
+    "text": "You can put a few bullet points here",
+    "style": "List Bullet",
+    "runs": [
+      {
+        "text": "You can put a few bullet points here",
+        "font": null,
+        "size": 127000,
+        "bold": null,
+        "italic": null
+      }
+    ],
+    "layout": {
+      "page": 2,
+      "bbox": [
+        71.80000305175781,
+        421.1000061035156,
+        270.6700134277344,
+        484.5
+      ]
+    }
+  },
+  {
+    "text": "You can put a few bullet points here",
+    "style": "List Bullet",
+    "runs": [
+      {
+        "text": "You can put a few bullet points here",
+        "font": null,
+        "size": 127000,
+        "bold": null,
+        "italic": null
+      }
+    ],
+    "layout": {
+      "page": 2,
+      "bbox": [
+        71.80000305175781,
+        421.1000061035156,
+        270.6700134277344,
+        484.5
+      ]
+    }
+  },
+  {
+    "text": "You can put a few bullet points here",
+    "style": "List Bullet",
+    "runs": [
+      {
+        "text": "You can put a few bullet points here",
+        "font": null,
+        "size": 127000,
+        "bold": null,
+        "italic": null
+      }
+    ],
+    "layout": {
+      "page": 2,
+      "bbox": [
+        71.80000305175781,
+        421.1000061035156,
+        270.6700134277344,
+        484.5
+      ]
+    }
+  },
+  {
+    "text": "You can put a few bullet points here",
+    "style": "List Bullet",
+    "runs": [
+      {
+        "text": "You can put a few bullet points here",
+        "font": null,
+        "size": 127000,
+        "bold": null,
+        "italic": null
+      }
+    ],
+    "layout": {
+      "page": 2,
+      "bbox": [
+        71.80000305175781,
+        421.1000061035156,
+        270.6700134277344,
+        484.5
+      ]
+    }
+  }
+]

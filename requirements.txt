@@ -1,0 +1,6 @@
+python-docx>=1.1.0
+PyMuPDF>=1.23.0
+
+torch>=2.0.0
+transformers>=4.36.0
+python-doctr>=0.7.0
