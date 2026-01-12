@@ -1,0 +1,412 @@
+[
+  {
+    "page": 0,
+    "bbox": [
+      72.0999984741211,
+      75.09999084472656,
+      317.98004150390625,
+      99.09999084472656
+    ],
+    "text": "Sample Document"
+  },
+  {
+    "page": 0,
+    "bbox": [
+      72.0999984741211,
+      111.49998474121094,
+      537.5211181640625,
+      151.90000915527344
+    ],
+    "text": "This document was created using accessibility techniques for headings, lists, image \nalternate text, tables, and columns. It should be completely accessible using \nassistive technologies such as screen readers."
+  },
+  {
+    "page": 0,
+    "bbox": [
+      72.0999984741211,
+      162.50003051757812,
+      166.9420166015625,
+      180.50003051757812
+    ],
+    "text": "Headings"
+  },
+  {
+    "page": 0,
+    "bbox": [
+      72.0999984741211,
+      191.6999969482422,
+      537.4771118164062,
+      246.7999725341797
+    ],
+    "text": "There are eight section headings in this document. At the beginning, \"Sample \nDocument\" is a level 1 heading. The main section headings, such as \"Headings\" and\n\"Lists\" are level 2 headings. The Tables section contains two sub-headings, \"Simple \nTable\" and \"Complex Table,\" which are both level 3 headings."
+  },
+  {
+    "page": 0,
+    "bbox": [
+      72.0999984741211,
+      257.3999938964844,
+      119.67400360107422,
+      275.3999938964844
+    ],
+    "text": "Lists"
+  },
+  {
+    "page": 0,
+    "bbox": [
+      72.0999984741211,
+      286.5,
+      535.7171630859375,
+      326.9000244140625
+    ],
+    "text": "The following outline of the sections of this document is an ordered (numbered) list \nwith six items. The fifth item, \"Tables,\" contains a nested unordered (bulleted) list \nwith two items."
+  },
+  {
+    "page": 0,
+    "bbox": [
+      90.0999984741211,
+      336.6000061035156,
+      163.01199340820312,
+      406.4000244140625
+    ],
+    "text": "1. Headings \n2. Lists \n3. Links \n4. Images \n5. Tables"
+  },
+  {
+    "page": 0,
+    "bbox": [
+      90.0999984741211,
+      410.1000061035156,
+      217.39999389648438,
+      450.5
+    ],
+    "text": "\nSimple Tables \n\nComplex Tables \n6. Columns"
+  },
+  {
+    "page": 0,
+    "bbox": [
+      72.0999984741211,
+      461.1000061035156,
+      125.16400146484375,
+      479.1000061035156
+    ],
+    "text": "Links"
+  },
+  {
+    "page": 0,
+    "bbox": [
+      72.0999984741211,
+      490.3000183105469,
+      530.3931884765625,
+      516.0
+    ],
+    "text": "In web documents, links can point different locations on the page, different pages, \nor even downloadable documents, such as Word documents or PDFs:"
+  },
+  {
+    "page": 0,
+    "bbox": [
+      72.0999984741211,
+      525.7000122070312,
+      211.94297790527344,
+      566.1000366210938
+    ],
+    "text": "Top of this Page\nSample Document\nSample Document (docx)"
+  },
+  {
+    "page": 0,
+    "bbox": [
+      72.0999984741211,
+      576.699951171875,
+      145.3780059814453,
+      594.699951171875
+    ],
+    "text": "Images"
+  },
+  {
+    "page": 0,
+    "bbox": [
+      182.39999389648438,
+      605.7999877929688,
+      539.229248046875,
+      646.2000122070312
+    ],
+    "text": "Documents may contain images. For example, there is an image\nof the web accessibility symbol to the left of this paragraph. Its \nalternate text is \"Web Access Symbol\"."
+  },
+  {
+    "page": 0,
+    "bbox": [
+      182.39999389648438,
+      655.9000244140625,
+      532.354248046875,
+      681.6000366210938
+    ],
+    "text": "Alt text should communicate what an image means, not how it \nlooks."
+  },
+  {
+    "page": 1,
+    "bbox": [
+      72.0999984741211,
+      79.40000915527344,
+      537.3511352539062,
+      178.6000213623047
+    ],
+    "text": "Some images, such as charts or graphs, \nrequire long descriptions, but not all \ndocument types allow that. In web pages, \nlong descriptions may be provided in \nseveral ways: on the page below the image,\nvia a link below the image, or via a link on \nthe image."
+  },
+  {
+    "page": 1,
+    "bbox": [
+      72.0999984741211,
+      209.89999389648438,
+      138.447998046875,
+      227.89999389648438
+    ],
+    "text": "Tables"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      72.0999984741211,
+      239.50001525878906,
+      182.1399688720703,
+      253.50001525878906
+    ],
+    "text": "Simple Tables"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      72.0999984741211,
+      263.79998779296875,
+      519.09619140625,
+      289.5
+    ],
+    "text": "Simple tables have a uniform number of columns and rows, without any merged \ncells:"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      77.5,
+      302.6000061035156,
+      123.90898132324219,
+      326.4000244140625
+    ],
+    "text": "Screen \nReader"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      158.39999389648438,
+      302.6000061035156,
+      204.09400939941406,
+      326.4000244140625
+    ],
+    "text": "Respon\nses"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      221.89999389648438,
+      302.6000061035156,
+      250.42298889160156,
+      326.4000244140625
+    ],
+    "text": "Shar\ne"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      77.5,
+      334.5,
+      246.2429962158203,
+      345.5
+    ],
+    "text": "JAWS\n853\n49%"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      77.5,
+      353.6000061035156,
+      246.2429962158203,
+      364.6000061035156
+    ],
+    "text": "NVDA\n238\n14%"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      77.5,
+      372.70001220703125,
+      125.00898742675781,
+      396.5
+    ],
+    "text": "Window-\nEyes"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      158.39999389648438,
+      372.70001220703125,
+      246.2429962158203,
+      383.70001220703125
+    ],
+    "text": "214\n12%"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      77.5,
+      404.6000061035156,
+      121.96200561523438,
+      428.4000244140625
+    ],
+    "text": "System \nAccess"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      158.39999389648438,
+      404.6000061035156,
+      246.2429962158203,
+      415.6000061035156
+    ],
+    "text": "181\n10%"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      77.5,
+      436.5,
+      239.2469940185547,
+      447.5
+    ],
+    "text": "VoiceOver\n159\n9%"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      72.0999984741211,
+      471.8999938964844,
+      196.25198364257812,
+      485.8999938964844
+    ],
+    "text": "Complex Tables"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      72.0999984741211,
+      496.20001220703125,
+      532.0101318359375,
+      521.9000244140625
+    ],
+    "text": "The following is a complex table, using merged cells as headers for sections within \nthe table. This can't be made accessible in all types of documents:"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      167.89999389648438,
+      535.0,
+      465.7589416503906,
+      546.0
+    ],
+    "text": "May 2012\n September 2010"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      77.9000015258789,
+      554.1000366210938,
+      124.30899047851562,
+      577.9000244140625
+    ],
+    "text": "Screen \nReader"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      167.89999389648438,
+      554.1000366210938,
+      491.0590515136719,
+      565.1000366210938
+    ],
+    "text": "Responses\nShare\nResponses\nShare"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      77.9000015258789,
+      586.0,
+      479.4430236816406,
+      597.0
+    ],
+    "text": "JAWS\n853\n49%\n727\n59%"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      77.9000015258789,
+      605.1000366210938,
+      472.447021484375,
+      616.1000366210938
+    ],
+    "text": "NVDA\n238\n14%\n105\n9%"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      77.9000015258789,
+      624.2000122070312,
+      479.4430236816406,
+      635.2000122070312
+    ],
+    "text": "Window-Eyes\n214\n12%\n138\n11%"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      77.9000015258789,
+      643.2999877929688,
+      122.36199951171875,
+      667.1000366210938
+    ],
+    "text": "System \nAccess"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      167.89999389648438,
+      643.2999877929688,
+      472.447021484375,
+      654.2999877929688
+    ],
+    "text": "181\n10%\n58\n5%"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      72.0999984741211,
+      675.2000122070312,
+      479.4430236816406,
+      722.699951171875
+    ],
+    "text": "VoiceOver\n159\n9%\n120\n10%\n \nColumns"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      72.0999984741211,
+      73.40000915527344,
+      279.3839416503906,
+      172.6000213623047
+    ],
+    "text": "This is an example of columns. With \ncolumns, the page is split into two or \nmore horizontal sections. Unlike \ntables, in which you usually read \nacross a row and then down to the \nnext, in columns, you read down a \ncolumn and then across to the next."
+  },
+  {
+    "page": 2,
+    "bbox": [
+      324.1000061035156,
+      79.40000915527344,
+      536.7741088867188,
+      178.6000213623047
+    ],
+    "text": "When columns are not created \ncorrectly, screen readers may run \nlines together, reading the first line of \nthe first column, then the first line of \nthe second column, then the second \nline of the first column, and so on. \nObviously, that is not accessible."
+  }
+]

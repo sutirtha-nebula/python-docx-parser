@@ -1,0 +1,736 @@
+[
+  {
+    "text": "Sample Document",
+    "style": "Heading 1",
+    "alignment": null,
+    "space_before": null,
+    "space_after": null,
+    "line_spacing": null,
+    "runs": [
+      {
+        "text": "Sample Document",
+        "font": "Cambria",
+        "font_size_pt": 24.0,
+        "bold": null,
+        "italic": null,
+        "background": {
+          "highlight": null,
+          "shading": null
+        }
+      }
+    ]
+  },
+  {
+    "text": "This document was created using accessibility techniques for headings, lists, image alternate text, tables, and columns. It should be completely accessible using assistive technologies such as screen readers.",
+    "style": "Normal",
+    "alignment": null,
+    "space_before": null,
+    "space_after": null,
+    "line_spacing": null,
+    "runs": [
+      {
+        "text": "This document was created using accessibility techniques for headings, lists, image alternate text, tables, and columns. It should be completely accessible using assistive technologies such as screen readers.",
+        "font": "Calibri",
+        "font_size_pt": 11.0,
+        "bold": null,
+        "italic": null,
+        "background": {
+          "highlight": null,
+          "shading": null
+        }
+      }
+    ]
+  },
+  {
+    "text": "Headings",
+    "style": "Heading 2",
+    "alignment": null,
+    "space_before": null,
+    "space_after": null,
+    "line_spacing": null,
+    "runs": [
+      {
+        "text": "Headings",
+        "font": "Cambria",
+        "font_size_pt": 18.0,
+        "bold": null,
+        "italic": null,
+        "background": {
+          "highlight": null,
+          "shading": null
+        }
+      }
+    ]
+  },
+  {
+    "text": "There are eight section headings in this document. At the beginning, \"Sample Document\" is a level 1 heading. The main section headings, such as \"Headings\" and \"Lists\" are level 2 headings. The Tables section contains two sub-headings, \"Simple Table\" and \"Complex Table,\" which are both level 3 headings.",
+    "style": "Normal",
+    "alignment": null,
+    "space_before": null,
+    "space_after": null,
+    "line_spacing": null,
+    "runs": [
+      {
+        "text": "There are eight section headings in this document. At the beginning, \"Sample Document\" is a level 1 heading. The main section headings, such as \"Headings\" and \"Lists\" are level 2 headings. The Tables section contains two sub-headings, \"Simple Table\" and \"Complex Table,\" which are both level 3 headings.",
+        "font": "Calibri",
+        "font_size_pt": 11.0,
+        "bold": null,
+        "italic": null,
+        "background": {
+          "highlight": null,
+          "shading": null
+        }
+      }
+    ]
+  },
+  {
+    "text": "Lists",
+    "style": "Heading 2",
+    "alignment": null,
+    "space_before": null,
+    "space_after": null,
+    "line_spacing": null,
+    "runs": [
+      {
+        "text": "Lists",
+        "font": "Cambria",
+        "font_size_pt": 18.0,
+        "bold": null,
+        "italic": null,
+        "background": {
+          "highlight": null,
+          "shading": null
+        }
+      }
+    ]
+  },
+  {
+    "text": "The following outline of the sections of this document is an ordered (numbered) list with six items. The fifth item, \"Tables,\" contains a nested unordered (bulleted) list with two items.",
+    "style": "Normal",
+    "alignment": null,
+    "space_before": null,
+    "space_after": null,
+    "line_spacing": null,
+    "runs": [
+      {
+        "text": "The following outline of the sections of this document is an ordered (numbered) list with six items. The fifth item, \"Tables,\" contains a nested unordered (bulleted) list with two items.",
+        "font": "Calibri",
+        "font_size_pt": 11.0,
+        "bold": null,
+        "italic": null,
+        "background": {
+          "highlight": null,
+          "shading": null
+        }
+      }
+    ]
+  },
+  {
+    "text": "Headings ",
+    "style": "List Paragraph",
+    "alignment": null,
+    "space_before": null,
+    "space_after": null,
+    "line_spacing": null,
+    "runs": [
+      {
+        "text": "Headings ",
+        "font": "Calibri",
+        "font_size_pt": 11.0,
+        "bold": null,
+        "italic": null,
+        "background": {
+          "highlight": null,
+          "shading": null
+        }
+      }
+    ]
+  },
+  {
+    "text": "Lists ",
+    "style": "List Paragraph",
+    "alignment": null,
+    "space_before": null,
+    "space_after": null,
+    "line_spacing": null,
+    "runs": [
+      {
+        "text": "Lists ",
+        "font": "Calibri",
+        "font_size_pt": 11.0,
+        "bold": null,
+        "italic": null,
+        "background": {
+          "highlight": null,
+          "shading": null
+        }
+      }
+    ]
+  },
+  {
+    "text": "Links ",
+    "style": "List Paragraph",
+    "alignment": null,
+    "space_before": null,
+    "space_after": null,
+    "line_spacing": null,
+    "runs": [
+      {
+        "text": "Links ",
+        "font": "Calibri",
+        "font_size_pt": 11.0,
+        "bold": null,
+        "italic": null,
+        "background": {
+          "highlight": null,
+          "shading": null
+        }
+      }
+    ]
+  },
+  {
+    "text": "Images ",
+    "style": "List Paragraph",
+    "alignment": null,
+    "space_before": null,
+    "space_after": null,
+    "line_spacing": null,
+    "runs": [
+      {
+        "text": "Images ",
+        "font": "Calibri",
+        "font_size_pt": 11.0,
+        "bold": null,
+        "italic": null,
+        "background": {
+          "highlight": null,
+          "shading": null
+        }
+      }
+    ]
+  },
+  {
+    "text": "Tables ",
+    "style": "List Paragraph",
+    "alignment": null,
+    "space_before": null,
+    "space_after": null,
+    "line_spacing": null,
+    "runs": [
+      {
+        "text": "Tables ",
+        "font": "Calibri",
+        "font_size_pt": 11.0,
+        "bold": null,
+        "italic": null,
+        "background": {
+          "highlight": null,
+          "shading": null
+        }
+      }
+    ]
+  },
+  {
+    "text": "Simple Tables ",
+    "style": "List Paragraph",
+    "alignment": null,
+    "space_before": null,
+    "space_after": null,
+    "line_spacing": null,
+    "runs": [
+      {
+        "text": "Simple Tables ",
+        "font": "Calibri",
+        "font_size_pt": 11.0,
+        "bold": null,
+        "italic": null,
+        "background": {
+          "highlight": null,
+          "shading": null
+        }
+      }
+    ]
+  },
+  {
+    "text": "Complex Tables ",
+    "style": "List Paragraph",
+    "alignment": null,
+    "space_before": null,
+    "space_after": null,
+    "line_spacing": null,
+    "runs": [
+      {
+        "text": "Complex Tables ",
+        "font": "Calibri",
+        "font_size_pt": 11.0,
+        "bold": null,
+        "italic": null,
+        "background": {
+          "highlight": null,
+          "shading": null
+        }
+      }
+    ]
+  },
+  {
+    "text": "Columns ",
+    "style": "List Paragraph",
+    "alignment": null,
+    "space_before": null,
+    "space_after": null,
+    "line_spacing": null,
+    "runs": [
+      {
+        "text": "Columns ",
+        "font": "Calibri",
+        "font_size_pt": 11.0,
+        "bold": null,
+        "italic": null,
+        "background": {
+          "highlight": null,
+          "shading": null
+        }
+      }
+    ]
+  },
+  {
+    "text": "Links",
+    "style": "Heading 2",
+    "alignment": null,
+    "space_before": null,
+    "space_after": null,
+    "line_spacing": null,
+    "runs": [
+      {
+        "text": "Links",
+        "font": "Cambria",
+        "font_size_pt": 18.0,
+        "bold": null,
+        "italic": null,
+        "background": {
+          "highlight": null,
+          "shading": null
+        }
+      }
+    ]
+  },
+  {
+    "text": "In web documents, links can point different locations on the page, different pages, or even downloadable documents, such as Word documents or PDFs:",
+    "style": "Normal",
+    "alignment": null,
+    "space_before": null,
+    "space_after": null,
+    "line_spacing": null,
+    "runs": [
+      {
+        "text": "In web documents, links can point different locations on the page, different pages, or even downloadable documents, such as",
+        "font": "Calibri",
+        "font_size_pt": 11.0,
+        "bold": null,
+        "italic": null,
+        "background": {
+          "highlight": null,
+          "shading": null
+        }
+      },
+      {
+        "text": " Word documents or",
+        "font": "Calibri",
+        "font_size_pt": 11.0,
+        "bold": null,
+        "italic": null,
+        "background": {
+          "highlight": null,
+          "shading": null
+        }
+      },
+      {
+        "text": " PDFs:",
+        "font": "Calibri",
+        "font_size_pt": 11.0,
+        "bold": null,
+        "italic": null,
+        "background": {
+          "highlight": null,
+          "shading": null
+        }
+      }
+    ]
+  },
+  {
+    "text": "Top of this Page\nSample Document\nSample Document (docx)",
+    "style": "Normal",
+    "alignment": null,
+    "space_before": null,
+    "space_after": null,
+    "line_spacing": null,
+    "runs": [
+      {
+        "text": "\n",
+        "font": "Calibri",
+        "font_size_pt": 11.0,
+        "bold": null,
+        "italic": null,
+        "background": {
+          "highlight": null,
+          "shading": null
+        }
+      },
+      {
+        "text": "\n",
+        "font": "Calibri",
+        "font_size_pt": 11.0,
+        "bold": null,
+        "italic": null,
+        "background": {
+          "highlight": null,
+          "shading": null
+        }
+      }
+    ]
+  },
+  {
+    "text": "Images",
+    "style": "Heading 2",
+    "alignment": null,
+    "space_before": null,
+    "space_after": null,
+    "line_spacing": null,
+    "runs": [
+      {
+        "text": "Images",
+        "font": "Cambria",
+        "font_size_pt": 18.0,
+        "bold": null,
+        "italic": null,
+        "background": {
+          "highlight": null,
+          "shading": null
+        }
+      }
+    ]
+  },
+  {
+    "text": "Documents may contain images. For example, there is an image of the web accessibility symbol to the left of this paragraph. Its alternate text is \"Web Access Symbol\".",
+    "style": "Normal",
+    "alignment": null,
+    "space_before": null,
+    "space_after": null,
+    "line_spacing": null,
+    "runs": [
+      {
+        "text": "",
+        "font": "Calibri",
+        "font_size_pt": 11.0,
+        "bold": null,
+        "italic": null,
+        "background": {
+          "highlight": null,
+          "shading": null
+        }
+      },
+      {
+        "text": "Documents may contain images. For example, there is an image of the web accessibility symbol to the left of this paragraph. Its alternate text is \"Web Access Symbol\".",
+        "font": "Calibri",
+        "font_size_pt": 11.0,
+        "bold": null,
+        "italic": null,
+        "background": {
+          "highlight": null,
+          "shading": null
+        }
+      }
+    ]
+  },
+  {
+    "text": "Alt text should communicate what an image means, not how it looks.",
+    "style": "Normal",
+    "alignment": null,
+    "space_before": null,
+    "space_after": null,
+    "line_spacing": null,
+    "runs": [
+      {
+        "text": "Alt text should communicate what an image means, not how it looks.",
+        "font": "Calibri",
+        "font_size_pt": 11.0,
+        "bold": null,
+        "italic": null,
+        "background": {
+          "highlight": null,
+          "shading": null
+        }
+      }
+    ]
+  },
+  {
+    "text": "",
+    "style": "Normal",
+    "alignment": null,
+    "space_before": null,
+    "space_after": 10.0,
+    "line_spacing": null,
+    "runs": [
+      {
+        "text": "",
+        "font": "Calibri",
+        "font_size_pt": 11.0,
+        "bold": null,
+        "italic": null,
+        "background": {
+          "highlight": null,
+          "shading": null
+        }
+      }
+    ]
+  },
+  {
+    "text": "Some images, such as charts or graphs, require long descriptions, but not all document types allow that. In web pages, long descriptions may be provided in several ways: on the page below the image, via a link below the image, or via a link on the image.",
+    "style": "Normal",
+    "alignment": null,
+    "space_before": null,
+    "space_after": null,
+    "line_spacing": null,
+    "runs": [
+      {
+        "text": "",
+        "font": "Calibri",
+        "font_size_pt": 11.0,
+        "bold": null,
+        "italic": null,
+        "background": {
+          "highlight": null,
+          "shading": null
+        }
+      },
+      {
+        "text": "Some images, such as charts or graphs, require long descriptions, but not all document types allow that. In web pages, long descriptions may be provided in several ways: on the page below the image, via a link below the image, or via a link on the image.",
+        "font": "Calibri",
+        "font_size_pt": 11.0,
+        "bold": null,
+        "italic": null,
+        "background": {
+          "highlight": null,
+          "shading": null
+        }
+      }
+    ]
+  },
+  {
+    "text": "",
+    "style": "Normal",
+    "alignment": null,
+    "space_before": null,
+    "space_after": null,
+    "line_spacing": null,
+    "runs": []
+  },
+  {
+    "text": "Tables",
+    "style": "Heading 2",
+    "alignment": null,
+    "space_before": null,
+    "space_after": null,
+    "line_spacing": null,
+    "runs": [
+      {
+        "text": "Tables",
+        "font": "Cambria",
+        "font_size_pt": 18.0,
+        "bold": null,
+        "italic": null,
+        "background": {
+          "highlight": null,
+          "shading": null
+        }
+      }
+    ]
+  },
+  {
+    "text": "Simple Tables",
+    "style": "Heading 3",
+    "alignment": null,
+    "space_before": null,
+    "space_after": null,
+    "line_spacing": null,
+    "runs": [
+      {
+        "text": "Simple Tables",
+        "font": "Cambria",
+        "font_size_pt": 14.0,
+        "bold": null,
+        "italic": null,
+        "background": {
+          "highlight": null,
+          "shading": null
+        }
+      }
+    ]
+  },
+  {
+    "text": "Simple tables have a uniform number of columns and rows, without any merged cells:",
+    "style": "Normal",
+    "alignment": null,
+    "space_before": null,
+    "space_after": null,
+    "line_spacing": null,
+    "runs": [
+      {
+        "text": "Simple tables have a uniform number of columns and rows, without any merged cells:",
+        "font": "Calibri",
+        "font_size_pt": 11.0,
+        "bold": null,
+        "italic": null,
+        "background": {
+          "highlight": null,
+          "shading": null
+        }
+      }
+    ]
+  },
+  {
+    "text": "",
+    "style": "Normal",
+    "alignment": null,
+    "space_before": null,
+    "space_after": null,
+    "line_spacing": 0.5,
+    "runs": []
+  },
+  {
+    "text": "Complex Tables",
+    "style": "Heading 3",
+    "alignment": null,
+    "space_before": null,
+    "space_after": null,
+    "line_spacing": null,
+    "runs": [
+      {
+        "text": "Complex Tables",
+        "font": "Cambria",
+        "font_size_pt": 14.0,
+        "bold": null,
+        "italic": null,
+        "background": {
+          "highlight": null,
+          "shading": null
+        }
+      }
+    ]
+  },
+  {
+    "text": "The following is a complex table, using merged cells as headers for sections within the table. This can't be made accessible in all types of documents:",
+    "style": "Normal",
+    "alignment": null,
+    "space_before": null,
+    "space_after": null,
+    "line_spacing": null,
+    "runs": [
+      {
+        "text": "The following is a complex table, using merged cells as headers for sections within the table. This can't be made accessible in all types of documents:",
+        "font": "Calibri",
+        "font_size_pt": 11.0,
+        "bold": null,
+        "italic": null,
+        "background": {
+          "highlight": null,
+          "shading": null
+        }
+      }
+    ]
+  },
+  {
+    "text": " ",
+    "style": "Normal",
+    "alignment": null,
+    "space_before": null,
+    "space_after": null,
+    "line_spacing": 0.5,
+    "runs": [
+      {
+        "text": " ",
+        "font": "Calibri",
+        "font_size_pt": 11.0,
+        "bold": null,
+        "italic": null,
+        "background": {
+          "highlight": null,
+          "shading": null
+        }
+      }
+    ]
+  },
+  {
+    "text": "Columns",
+    "style": "Heading 2",
+    "alignment": null,
+    "space_before": null,
+    "space_after": null,
+    "line_spacing": null,
+    "runs": [
+      {
+        "text": "Columns",
+        "font": "Cambria",
+        "font_size_pt": 18.0,
+        "bold": null,
+        "italic": null,
+        "background": {
+          "highlight": null,
+          "shading": null
+        }
+      }
+    ]
+  },
+  {
+    "text": "",
+    "style": "Normal",
+    "alignment": null,
+    "space_before": null,
+    "space_after": null,
+    "line_spacing": null,
+    "runs": []
+  },
+  {
+    "text": "This is an example of columns. With columns, the page is split into two or more horizontal sections. Unlike tables, in which you usually read across a row and then down to the next, in columns, you read down a column and then across to the next.When columns are not created correctly, screen readers may run lines together, reading the first line of the first column, then the first line of the second column, then the second line of the first column, and so on. Obviously, that is not accessible.",
+    "style": "Normal",
+    "alignment": null,
+    "space_before": null,
+    "space_after": null,
+    "line_spacing": null,
+    "runs": [
+      {
+        "text": "This is an example of columns. With columns, the page is split into two or more horizontal sections. Unlike tables, in which you usually read across a row and then down to the next, in columns, you read down a column and then across to the next.",
+        "font": "Calibri",
+        "font_size_pt": 11.0,
+        "bold": null,
+        "italic": null,
+        "background": {
+          "highlight": null,
+          "shading": null
+        }
+      },
+      {
+        "text": "",
+        "font": "Calibri",
+        "font_size_pt": 11.0,
+        "bold": null,
+        "italic": null,
+        "background": {
+          "highlight": null,
+          "shading": null
+        }
+      },
+      {
+        "text": "When columns are not created correctly, screen readers may run lines together, reading the first line of the first column, then the first line of the second column, then the second line of the first column, and so on. Obviously, that is not accessible.",
+        "font": "Calibri",
+        "font_size_pt": 11.0,
+        "bold": null,
+        "italic": null,
+        "background": {
+          "highlight": null,
+          "shading": null
+        }
+      }
+    ]
+  }
+]
