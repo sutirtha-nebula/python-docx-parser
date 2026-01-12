@@ -1,7 +1,7 @@
-from parse_doc import extract_docx_styles
-from docx_pdf import docx_to_pdf
-from extract_layout import extract_pdf_layout
-from reconcile import reconcile
+from functions.parse_doc import extract_docx_styles
+from functions.docx_pdf import docx_to_pdf
+from functions.extract_layout import extract_pdf_layout
+from functions.reconcile import reconcile
 import json
 import os
 
@@ -9,11 +9,11 @@ def build_style_layout_template(docx_path, workdir):
     styles = extract_docx_styles(docx_path)
     print(styles)
     pdf = docx_to_pdf(docx_path, workdir)
-    print(pdf)
+    # print(pdf)
     layout = extract_pdf_layout(pdf)
     print(layout)
     template = reconcile(styles, layout)
-    print(template)
+    # print(template)
     return template
 
 if __name__ == "__main__":
