@@ -18,10 +18,10 @@ def extract_theme_fonts(docx_path):
     minor = root.find(".//a:minorFont/a:latin", ns)
 
     def print_document_xml(docx_path):
-    with ZipFile(docx_path) as z:
-        xml_bytes = z.read("word/document.xml")
-        xml_str = xml_bytes.decode("utf-8")
-        print(xml_str)
+        with ZipFile(docx_path) as z:
+            xml_bytes = z.read("word/document.xml")
+            xml_str = xml_bytes.decode("utf-8")
+            print(xml_str)
 
     return {
         "major": major.get("typeface") if major is not None else None,
