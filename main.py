@@ -5,26 +5,47 @@ from functions.reconcile import reconcile
 import json
 import os
 
+
 def build_style_layout_template(docx_path, workdir):
+    os.makedirs(workdir, exist_ok=True)
+
+    # 1. Extract DOCX styles
     styles = extract_docx_styles(docx_path)
-    print(styles)
-    pdf = docx_to_pdf(docx_path, workdir)
-    # print(pdf)
-    layout = extract_pdf_layout(pdf)
-    print(layout)
+
+    styles_path = os.path.join(workdir, "styles.json")
+    with open(styles_path, "w", encoding="utf-8") as f:
+        json.dump(styles, f, indent=2, ensure_ascii=False)
+
+    # 2. Convert DOCX → PDF
+    pdf_path = docx_to_pdf(docx_path, workdir)
+
+    # 3. Extract PDF layout
+    layout = extract_pdf_layout(pdf_path)
+
+    layout_path = os.path.join(workdir, "layout.json")
+    with open(layout_path, "w", encoding="utf-8") as f:
+        json.dump(layout, f, indent=2, ensure_ascii=False)
+
+    # 4. Reconcile styles + layout
     template = reconcile(styles, layout)
-    # print(template)
-    return template
+
+    template_path = os.path.join(workdir, "template.json")
+    with open(template_path, "w", encoding="utf-8") as f:
+        json.dump(template, f, indent=2, ensure_ascii=False)
+
+    return {
+        "styles": styles_path,
+        "layout": layout_path,
+        "template": template_path
+    }
+
 
 if __name__ == "__main__":
     input_docx = "./2026_01_Precision_AI_UFA_Template.docx"
     working_dir = "./tmp"
-    os.makedirs(working_dir, exist_ok=True)
 
-    template = build_style_layout_template(input_docx, working_dir)
+    result = build_style_layout_template(input_docx, working_dir)
 
-    output_file = "layout_template.json"
-    with open(output_file, "w", encoding="utf-8") as f:
-        json.dump(template, f, indent=2, ensure_ascii=False)
-
-    print(f"Template saved to {output_file}")
+    print("Artifacts generated:")
+    for k, v in result.items():
+        print(f" - {k}: {v}")
