@@ -41,7 +41,7 @@ def build_style_layout_template(docx_path, workdir):
 
 
 if __name__ == "__main__":
-    input_docx = "./2026_01_Precision_AI_UFA_Template.docx"
+    input_docx = "./data/2026_01_Precision_AI_UFA_Template.docx"
     working_dir = "./tmp"
 
     result = build_style_layout_template(input_docx, working_dir)
